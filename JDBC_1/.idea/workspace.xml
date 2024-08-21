@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="577caccb-e713-4eaa-ba24-9e8b340f7f0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/Helper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +27,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2kbhX6Ff9p9cMzxt5F5j2qwSpUO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +41,7 @@
     "Application.Main2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "JDBC__Day1",
+    "git-widget-placeholder": "JDBC__Day2",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -46,7 +49,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "D:/VitaminCode/JDBC/JDBC_1/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -67,7 +70,21 @@
       <option name="presentableId" value="Default" />
       <updated>1723558222133</updated>
       <workItem from="1723558223247" duration="555000" />
-      <workItem from="1723558789644" duration="6489000" />
+      <workItem from="1723558789644" duration="6889000" />
+      <workItem from="1723612141929" duration="125000" />
+      <workItem from="1723622940583" duration="2000" />
+      <workItem from="1723647278322" duration="4000" />
+      <workItem from="1723800542114" duration="7000" />
+      <workItem from="1723887353215" duration="976000" />
+      <workItem from="1723987782061" duration="510000" />
+      <workItem from="1724037980758" duration="64000" />
+      <workItem from="1724038052601" duration="71000" />
+      <workItem from="1724038134431" duration="18000" />
+      <workItem from="1724038161660" duration="103000" />
+      <workItem from="1724058867701" duration="32000" />
+      <workItem from="1724058909804" duration="234000" />
+      <workItem from="1724072500674" duration="19000" />
+      <workItem from="1724160540947" duration="4921000" />
     </task>
     <servers />
   </component>
