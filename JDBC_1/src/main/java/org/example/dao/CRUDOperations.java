@@ -1,0 +1,1 @@
+package org.example.dao;import java.util.List;import java.util.Optional;public interface CRUDOperations<T> {    void create(T t);    List<T> findAll();    Optional<T> findById(int id);    List<T> findByName(String name);    Optional<T> findByNameOnly(String name);    void update(T t);    void delete(int id);}
