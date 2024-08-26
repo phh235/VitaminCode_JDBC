@@ -5,19 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="577caccb-e713-4eaa-ba24-9e8b340f7f0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/crudController/crudCtrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/crudController/crudCtrlImpl/crudLocator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/crudController/crudCtrlImpl/crudWarehouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/absStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/system/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/crudCtrl/crudCtrlImpl/crudLocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/crudCtrl/crudCtrlImpl/crudWarehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/ProductCombo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/abstractClass/abstractInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/abstractClass/abstractProduct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/system/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crudController/crudCtrl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crudCtrl/crudCtrl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crudController/crudCtrlImpl/crudLocator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crudController/crudCtrlImpl/crudWarehouse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dao/CRUDOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/CRUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dao/daoImpl/LocatorDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/daoImpl/LocatorDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dao/daoImpl/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/daoImpl/ProductDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dao/daoImpl/WarehouseDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/daoImpl/WarehouseDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Locator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Locator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/ProductItem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/Warehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/entity/Warehouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/utils/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/absStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/system/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/system/Menu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +73,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.entity" />
       <recent name="org.example.crudController.crudCtrlImpl" />
       <recent name="org.example.crud.crudImpl" />
       <recent name="org.example.dao.daoImpl" />
@@ -114,6 +120,9 @@
       <workItem from="1724498408588" duration="3443000" />
       <workItem from="1724503880441" duration="1660000" />
       <workItem from="1724652777597" duration="986000" />
+      <workItem from="1724662930614" duration="1337000" />
+      <workItem from="1724672237300" duration="2602000" />
+      <workItem from="1724675779669" duration="86000" />
     </task>
     <servers />
   </component>
