@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="577caccb-e713-4eaa-ba24-9e8b340f7f0d" name="Changes" comment="" />
+    <list default="true" id="577caccb-e713-4eaa-ba24-9e8b340f7f0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/system/menu/LocatorMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/system/menu/ProductMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/system/menu/WarehouseMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crudCtrl/crudCtrlImpl/crudProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crudCtrl/crudCtrlImpl/crudProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crudCtrl/crudCtrlImpl/crudProductCombo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crudCtrl/crudCtrlImpl/crudProductCombo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crudCtrl/crudCtrlImpl/crudProductItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crudCtrl/crudCtrlImpl/crudProductItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dao/daoImpl/ProductDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/daoImpl/ProductDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/system/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/system/Menu.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
