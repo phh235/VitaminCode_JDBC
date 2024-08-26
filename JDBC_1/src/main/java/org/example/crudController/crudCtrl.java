@@ -1,0 +1,1 @@
+package org.example.crudController;public interface crudCtrl {    void insert();    void delete();    void update();    void read();}
